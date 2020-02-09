@@ -11,7 +11,7 @@ const IndexPage = () => (
       <Image />
     </div>
     <p>Aan deze website wordt momenteel nog gewerkt.</p>
-    <p>Wil je graag een handje helpen in de nieuwe bijentuin in het Erasmuspark? Laat het ons weten via info@bijentuinplantasia.nl</p>
+    <p>Wil je graag een handje helpen in de nieuwe bijentuin in het Erasmuspark? Laat het ons weten via bijentuinamsterdam@gmail.com</p>
   </Layout>
 )
 
