@@ -12,7 +12,7 @@ const IndexPage = () => (
     </div>
     <div style={{ maxWidth: `600px`, padding: `0 16px`, textAlign: `center`, margin: `auto` }}>
       <p>Aan deze website wordt momenteel nog gewerkt.</p>
-      <p>Wil je graag een handje helpen in de nieuwe bijentuin in het Erasmuspark? Laat het ons weten via bijentuinamsterdam@gmail.com</p>
+      <p>Wil je graag een handje helpen in de nieuwe bijentuin in het Erasmuspark? Laat het ons weten via <a href="mailto:bijentuinamsterdam@gmail.com">bijentuinamsterdam@gmail.com</a>.</p>
     </div>
   </Layout>
 )
